@@ -3,7 +3,18 @@ cd /d //进入d盘
 mkdir gittest //创建gittest文件夹
 cd gittest //打开文件夹
 vim test.MD //文件夹下创建文件
-touch readme.txt//创建文件夹
+touch readme.txt//创建文件
+
+
+
+
+
+
+
+
+
+
+
 
 
 git config --global user.name "test name" //配置用户名
